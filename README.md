@@ -16,3 +16,6 @@ Atualmente estudando:
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<a href="https://github.com/FrancoBezerra2001/Gerenciamento_de_Produtos.git">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoBezerra2001&repo=Gerenciamento_de_Produtos&theme=tokyonight"/>
+</a>
