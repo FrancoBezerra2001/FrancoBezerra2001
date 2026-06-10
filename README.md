@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:000080&height=200&section=header&text=Franco%20Bezerra&fontSize=40&fontColor=ffffff"/>
 ## Hi there, I'm Francisco  👋
 
 Desenvolvedor Back-end Java.
@@ -8,3 +9,10 @@ Atualmente estudando:
 - Docker
 - MongoDB
 - Kafka
+## Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
