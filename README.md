@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:000080&height=200&section=header&text=Franco%20Bezerra&fontSize=40&fontColor=ffffff"/>
-<h2 style="font-size:60px;">Hi there, I'm Francisco</h2>  👋
+<h2 style="font-size:60px;">Hi there, I'm Francisco👋</h2> 
 
 Desenvolvedor Back-end Java.
 
