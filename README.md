@@ -3,8 +3,9 @@
 
 Desenvolvedor Back-end Java.
 
-Atualmente estudando:
-
+Atualmente especializado em:
+- Back-end Java
+- Banco de Dados MySQL
 - Spring Boot
 - Docker
 - MongoDB
