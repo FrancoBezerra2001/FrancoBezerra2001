@@ -27,5 +27,5 @@ Atualmente especializado em:
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoBezerra2001&repo=CadastroBibliotecas&theme=tokyonight"/>
 </a>
 <a href="https://github.com/FrancoBezerra2001/ControladorUsuarios.git">
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoBezerra2001&repo=ControladorUsuarios&theme=tokyonight"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoBezerra2001&repo=ControladorUsuarios&theme=tokyonight"/>
 </a>
