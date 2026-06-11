@@ -25,6 +25,4 @@ Atualmente estudando:
 <a href="https://github.com/FrancoBezerra2001/CadastroBibliotecas.git">
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoBezerra2001&repo=CadastroBibliotecas&theme=tokyonight"/>
 </a>
-<a href="https://github.com/FrancoBezerra2001/BancoDados_Java.git">
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoBezerra2001&repo=BancoDaados_Java&theme=tokyonight"/>
-</a>
+
