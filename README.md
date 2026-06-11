@@ -23,6 +23,6 @@ Atualmente estudando:
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoBezerra2001&repo=Sistema_Lista_de_Nomes&theme=tokyonight"/>
 </a>
 <a href="https://github.com/FrancoBezerra2001/CadastroBibliotecas.git">
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoBezerra2001&repo=CadastroBibliotecas&theme=tokyonight"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoBezerra2001&repo=CadastroBibliotecas&theme=tokyonight"/>
 </a>
 
