@@ -22,3 +22,6 @@ Atualmente estudando:
 <a href="https://github.com/FrancoBezerra2001/Sistema_Lista_de_Nomes.git">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoBezerra2001&repo=Sistema_Lista_de_Nomes&theme=tokyonight"/>
 </a>
+<a href="https://github.com/FrancoBezerra2001/CadastroBibliotecas.git">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoBezerra2001&repo=CadastroBibliotecas&theme=tokyonight"/>
+</a>
